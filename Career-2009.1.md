@@ -49,3 +49,12 @@
 * Kebals
   * Valentina (Pilot)
 
+### Flight KP-001c
+
+* Launched: Y1, D1, 00:58:00
+* Concluded: Y1, D1, 01:11:15
+* Result: Failure, Loss of life
+* Notes: High angle on landing, complete failure
+* Kebals
+  * Valentina (Pilot) - **died**
+
