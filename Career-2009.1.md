@@ -58,3 +58,29 @@
 * Kebals
   * Valentina (Pilot) - **died**
 
+### Flight KR-010
+
+* Launched: Y1, D1, 04:34:00
+* Concluded: Y1, D1, 04:44:00
+* Result: Success
+* Kebals
+  * Chadzer (Pilot)
+
+### Flight KR-010b
+
+* Launched: Y1, D1, 04:47:00
+* Concluded: Y1, D1, 04:47:20
+* Result: Failed launch
+* Notes: Incorrect staging
+* Kebals
+  * Chadzer (Pilot)
+
+### Flight KR-010b
+
+* Launched: Y1, D1, 04:48:00
+* Concluded: 
+* Result: 
+* Notes: 
+* Kebals
+  * Chadzer (Pilot)
+
